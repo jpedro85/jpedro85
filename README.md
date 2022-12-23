@@ -1,3 +1,4 @@
+<div align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=jpedro85&show_icons=true&theme=dark"
@@ -21,3 +22,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro85&layout=compact&theme=dark" />
 </picture>
+</div>
