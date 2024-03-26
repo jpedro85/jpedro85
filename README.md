@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Pedro Abreu</h1>
 <h3 align="center">a passionate software developer driven by curiosity for all things programming, learning, and innovation. My journey through technology is fueled by a deep desire to understand not just the "what" but the "how" and the "why" behind the tools and practices that define our digital era.</h3>
 
+- 📫 How to reach me **joao.p.abreu@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  joao.p.abreu@hotmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
