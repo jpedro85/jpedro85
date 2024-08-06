@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joão-pedro-abreu-484545299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-pedro-abreu-484545299" height="30" width="40" /></a>
+<a href="https://joao-pedro-abrue.xyz"><img align="center" src="rsrc/Logo.png" alt="joao-pedro-abreu-Logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
